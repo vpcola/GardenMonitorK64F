@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="0.936619452">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="0.936619452" moduleId="org.eclipse.cdt.core.settings" name="Default">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.VCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration buildProperties="" description="" id="0.936619452" name="Default" parent="org.eclipse.cdt.build.core.prefbase.cfg">
+					<folderInfo id="0.936619452." name="/" resourcePath="">
+						<toolChain id="org.eclipse.cdt.build.core.prefbase.toolchain.957782855" name="No ToolChain" resourceTypeBasedDiscovery="false" superClass="org.eclipse.cdt.build.core.prefbase.toolchain">
+							<targetPlatform id="org.eclipse.cdt.build.core.prefbase.toolchain.957782855.1870418474" name=""/>
+							<builder arguments="-j" command="make" id="org.eclipse.cdt.build.core.settings.default.builder.1415080330" incrementalBuildTarget="" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" superClass="org.eclipse.cdt.build.core.settings.default.builder"/>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.libs.445325914" name="holder for library settings" superClass="org.eclipse.cdt.build.core.settings.holder.libs"/>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.302788810" name="Assembly" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.1008027188" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/atmel-rf-driver}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/atmel-rf-driver/atmel-rf-driver}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/atmel-rf-driver/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/esp8266-driver}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/esp8266-driver/ESP8266}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/esp8266-driver/ESP8266/ATParser}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/esp8266-driver/ESP8266/ATParser/BufferedSerial}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/esp8266-driver/ESP8266/ATParser/BufferedSerial/Buffer}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/mcr20a-rf-driver}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/mcr20a-rf-driver/mcr20a-rf-driver}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/mcr20a-rf-driver/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/JSON}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-http}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-http/http_parser}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-http/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/cmsis}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/cmsis/TOOLCHAIN_GCC}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/docs}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/drivers}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/events}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/events/equeue}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/greentea-client}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/greentea-client/greentea-client}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/greentea-client/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/unity}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/unity/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/unity/unity}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/utest}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/utest/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/utest/utest}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/importer}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/inc}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/inc/mbedtls}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/platform/inc}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/platform/src}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/src}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/netsocket}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/hal}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/hal/storage_abstraction}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/rtos}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/rtos/rtx}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/rtos/rtx/TARGET_CORTEX_M}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/rtos/rtx/TARGET_CORTEX_M/TARGET_RTOS_M4_M7}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/rtos/rtx/TARGET_CORTEX_M/TARGET_RTOS_M4_M7/TOOLCHAIN_GCC}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/api}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/device}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/device/TOOLCHAIN_GCC_ARM}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/drivers}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/TARGET_FRDM}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/MQTT}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/MQTT/FP}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/MQTT/MQTTPacket}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/MQTT/MQTTPacket/samples}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/MQTT/MQTTPacket/test}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/NTPClient}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/SDFileSystem}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/SDFileSystem/FATFileSystem}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/SDFileSystem/FATFileSystem/ChaN}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/SPI_STMPE610}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/SPI_TFT_ILI9341}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/TFT_fonts}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/DigiLogger}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/FrameBuffer}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/FrameHandlers}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/Frames}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/IO}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/RemoteXBee}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/Utils}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/XBee}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/XBee802}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/XBeeDM}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/XBeeZB}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/api}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core/ipv4}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core/ipv6}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip/priv}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif/ppp}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif/ppp/polarssl}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/netif}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch/TARGET_Freescale}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-sys}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-sys/arch}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/coap-service}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/coap-service/coap-service}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/coap-service/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/coap-service/source/include}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/mbed-mesh-api}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/source/include}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/nanostack-interface}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/docs}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/docs/img}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/doxygen}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/nanostack}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/nanostack/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/targets}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/configuration-store}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design/pics}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design/umlet}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/project}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/flash-journal}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/flash-journal/flash-journal-strategy-sequential}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager/storage-volume-manager}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_LOWPAN_ROUTER}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_LOWPAN_ROUTER/TOOLCHAIN_GCC}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_LOWPAN_ROUTER/TOOLCHAIN_GCC/TARGET_RTOS_M4_M7}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/doxygen}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/nsdl-c}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libCoap}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libCoap/src}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libCoap/src/include}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libNsdl}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libNsdl/src}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libNsdl/src/include}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-randlib}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-randlib/mbed-client-randlib}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-randlib/mbed-client-randlib/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-randlib/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-trace}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-trace/mbed-trace}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-trace/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos/cs_nvm}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos/nvm}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/IPv6_fcf_lib}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/libBits}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/libip6string}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/libList}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/libTrace}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/libTrace/scripts}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/nsdynmemLIB}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/nvmHelper}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop/nanostack-event-loop}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop/nanostack-event-loop/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/}&quot;"/>
+								    
+								</option>
+								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.1670933615" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
+									
+                                    <listOptionValue builtIn="false" value="__CORTEX_M4"/>
+                                    
+                                    <listOptionValue builtIn="false" value="CPU_MK64FN1M0VMD12"/>
+                                    
+                                    <listOptionValue builtIn="false" value="ARM_MATH_CM4"/>
+                                    
+                                    <listOptionValue builtIn="false" value="__FPU_PRESENT=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="__MBED_CMSIS_RTOS_CM"/>
+                                    
+                                    <listOptionValue builtIn="false" value="__CMSIS_RTOS"/>
+                                    
+                                    <listOptionValue builtIn="false" value="FSL_RTOS_MBED"/>
+                                    
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.775336684" languageId="org.eclipse.cdt.core.assembly" languageName="Assembly" sourceContentType="org.eclipse.cdt.core.asmSource" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.162714252" name="GNU C++" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.1406944528" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/atmel-rf-driver}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/atmel-rf-driver/atmel-rf-driver}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/atmel-rf-driver/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/esp8266-driver}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/esp8266-driver/ESP8266}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/esp8266-driver/ESP8266/ATParser}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/esp8266-driver/ESP8266/ATParser/BufferedSerial}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/esp8266-driver/ESP8266/ATParser/BufferedSerial/Buffer}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/mcr20a-rf-driver}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/mcr20a-rf-driver/mcr20a-rf-driver}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/mcr20a-rf-driver/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/JSON}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-http}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-http/http_parser}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-http/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/cmsis}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/cmsis/TOOLCHAIN_GCC}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/docs}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/drivers}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/events}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/events/equeue}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/greentea-client}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/greentea-client/greentea-client}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/greentea-client/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/unity}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/unity/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/unity/unity}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/utest}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/utest/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/utest/utest}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/importer}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/inc}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/inc/mbedtls}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/platform/inc}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/platform/src}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/src}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/netsocket}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/hal}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/hal/storage_abstraction}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/rtos}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/rtos/rtx}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/rtos/rtx/TARGET_CORTEX_M}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/rtos/rtx/TARGET_CORTEX_M/TARGET_RTOS_M4_M7}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/rtos/rtx/TARGET_CORTEX_M/TARGET_RTOS_M4_M7/TOOLCHAIN_GCC}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/api}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/device}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/device/TOOLCHAIN_GCC_ARM}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/drivers}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/TARGET_FRDM}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/MQTT}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/MQTT/FP}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/MQTT/MQTTPacket}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/MQTT/MQTTPacket/samples}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/MQTT/MQTTPacket/test}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/NTPClient}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/SDFileSystem}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/SDFileSystem/FATFileSystem}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/SDFileSystem/FATFileSystem/ChaN}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/SPI_STMPE610}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/SPI_TFT_ILI9341}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/TFT_fonts}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/DigiLogger}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/FrameBuffer}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/FrameHandlers}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/Frames}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/IO}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/RemoteXBee}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/Utils}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/XBee}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/XBee802}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/XBeeDM}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/XBeeZB}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/api}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core/ipv4}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core/ipv6}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip/priv}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif/ppp}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif/ppp/polarssl}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/netif}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch/TARGET_Freescale}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-sys}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-sys/arch}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/coap-service}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/coap-service/coap-service}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/coap-service/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/coap-service/source/include}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/mbed-mesh-api}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/source/include}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/nanostack-interface}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/docs}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/docs/img}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/doxygen}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/nanostack}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/nanostack/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/targets}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/configuration-store}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design/pics}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design/umlet}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/project}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/flash-journal}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/flash-journal/flash-journal-strategy-sequential}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager/storage-volume-manager}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_LOWPAN_ROUTER}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_LOWPAN_ROUTER/TOOLCHAIN_GCC}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_LOWPAN_ROUTER/TOOLCHAIN_GCC/TARGET_RTOS_M4_M7}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/doxygen}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/nsdl-c}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libCoap}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libCoap/src}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libCoap/src/include}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libNsdl}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libNsdl/src}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libNsdl/src/include}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-randlib}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-randlib/mbed-client-randlib}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-randlib/mbed-client-randlib/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-randlib/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-trace}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-trace/mbed-trace}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-trace/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos/cs_nvm}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos/nvm}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/IPv6_fcf_lib}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/libBits}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/libip6string}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/libList}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/libTrace}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/libTrace/scripts}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/nsdynmemLIB}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/nvmHelper}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop/nanostack-event-loop}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop/nanostack-event-loop/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/}&quot;"/>
+								    
+								</option>
+								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.496389156" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
+									
+                                    <listOptionValue builtIn="false" value="FEATURE_NANOSTACK=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_KSDK2_MCUS"/>
+                                    
+                                    <listOptionValue builtIn="false" value="FEATURE_LWIP=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="__MBED__=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_I2CSLAVE=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="__FPU_PRESENT=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_Freescale"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_PORTINOUT=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_RTOS_M4_M7"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_LOWPOWERTIMER=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_RTC=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TOOLCHAIN_object"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_SERIAL_ASYNCH=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="__CMSIS_RTOS"/>
+                                    
+                                    <listOptionValue builtIn="false" value="FSL_RTOS_MBED"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_STORAGE=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_KPSDK_MCUS"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TOOLCHAIN_GCC"/>
+                                    
+                                    <listOptionValue builtIn="false" value="ARM_MATH_CM4"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_DEBUG"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_LIKE_CORTEX_M4"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_ANALOGOUT=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_M4"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_UVISOR_UNSUPPORTED"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_K64F"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_SPI_ASYNCH=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_PWMOUT=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_INTERRUPTIN=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_I2C=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_PORTOUT=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="__CORTEX_M4"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_STDIO_MESSAGES=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="CPU_MK64FN1M0VMD12"/>
+                                    
+                                    <listOptionValue builtIn="false" value="MBED_BUILD_TIMESTAMP=1487544315.76"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_LIKE_MBED"/>
+                                    
+                                    <listOptionValue builtIn="false" value="FEATURE_COMMON_PAL=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_KPSDK_CODE"/>
+                                    
+                                    <listOptionValue builtIn="false" value="FEATURE_LOWPAN_ROUTER=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_SERIAL_FC=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="FEATURE_STORAGE=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_TRNG=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="__MBED_CMSIS_RTOS_CM"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_SLEEP=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TOOLCHAIN_GCC_ARM"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_FF_ARDUINO"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_FRDM"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_MCUXpresso_MCUS"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_SPI=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_ERROR_RED=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_SPISLAVE=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_ANALOGIN=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_SERIAL=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_PORTIN=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_MCU_K64F"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_CORTEX_M"/>
+                                    
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.869095164" languageId="org.eclipse.cdt.core.g++" languageName="GNU C++" sourceContentType="org.eclipse.cdt.core.cxxSource,org.eclipse.cdt.core.cxxHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.460204758" name="GNU C" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.867151072" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/atmel-rf-driver}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/atmel-rf-driver/atmel-rf-driver}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/atmel-rf-driver/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/esp8266-driver}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/esp8266-driver/ESP8266}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/esp8266-driver/ESP8266/ATParser}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/esp8266-driver/ESP8266/ATParser/BufferedSerial}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/esp8266-driver/ESP8266/ATParser/BufferedSerial/Buffer}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/mcr20a-rf-driver}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/mcr20a-rf-driver/mcr20a-rf-driver}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/easy-connect/mcr20a-rf-driver/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/JSON}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-http}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-http/http_parser}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-http/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/cmsis}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/cmsis/TOOLCHAIN_GCC}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/docs}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/drivers}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/events}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/events/equeue}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/greentea-client}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/greentea-client/greentea-client}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/greentea-client/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/unity}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/unity/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/unity/unity}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/utest}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/utest/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/frameworks/utest/utest}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/importer}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/inc}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/inc/mbedtls}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/platform/inc}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/platform/src}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/mbedtls/src}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/netsocket}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/hal}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/hal/storage_abstraction}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/rtos}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/rtos/rtx}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/rtos/rtx/TARGET_CORTEX_M}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/rtos/rtx/TARGET_CORTEX_M/TARGET_RTOS_M4_M7}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/rtos/rtx/TARGET_CORTEX_M/TARGET_RTOS_M4_M7/TOOLCHAIN_GCC}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/api}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/device}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/device/TOOLCHAIN_GCC_ARM}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/drivers}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_MCU_K64F/TARGET_FRDM}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/MQTT}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/MQTT/FP}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/MQTT/MQTTPacket}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/MQTT/MQTTPacket/samples}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/MQTT/MQTTPacket/test}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/NTPClient}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/SDFileSystem}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/SDFileSystem/FATFileSystem}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/SDFileSystem/FATFileSystem/ChaN}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/SPI_STMPE610}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/SPI_TFT_ILI9341}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/TFT_fonts}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/DigiLogger}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/FrameBuffer}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/FrameHandlers}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/Frames}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/IO}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/RemoteXBee}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/Utils}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/XBee}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/XBee802}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/XBeeDM}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/XBeeLib/XBeeZB}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/api}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core/ipv4}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/core/ipv6}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/lwip/priv}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif/ppp}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/include/netif/ppp/polarssl}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip/src/netif}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch/TARGET_Freescale}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-sys}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-sys/arch}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/coap-service}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/coap-service/coap-service}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/coap-service/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/coap-service/source/include}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/mbed-mesh-api}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/mbed-mesh-api/source/include}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/nanostack-interface}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/docs}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/docs/img}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/doxygen}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/nanostack}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/sal-stack-nanostack/nanostack/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_NANOSTACK/targets}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/configuration-store}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design/pics}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/design/umlet}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/doc/project}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/cfstore/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/flash-journal}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/flash-journal/flash-journal-strategy-sequential}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/storage/FEATURE_STORAGE/storage-volume-manager/storage-volume-manager}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_LOWPAN_ROUTER}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_LOWPAN_ROUTER/TOOLCHAIN_GCC}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/nanostack/FEATURE_LOWPAN_ROUTER/TOOLCHAIN_GCC/TARGET_RTOS_M4_M7}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/doxygen}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/nsdl-c}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libCoap}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libCoap/src}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libCoap/src/include}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libNsdl}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libNsdl/src}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-c/source/libNsdl/src/include}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-randlib}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-randlib/mbed-client-randlib}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-randlib/mbed-client-randlib/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-client-randlib/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-trace}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-trace/mbed-trace}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/mbed-trace/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos/cs_nvm}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-hal-mbed-cmsis-rtos/nvm}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/mbed-client-libservice/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/IPv6_fcf_lib}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/libBits}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/libip6string}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/libList}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/libTrace}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/libTrace/scripts}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/nsdynmemLIB}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/nanostack-libservice/source/nvmHelper}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop/nanostack-event-loop}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop/nanostack-event-loop/platform}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/K64F/mbed-os/features/FEATURE_COMMON_PAL/sal-stack-nanostack-eventloop/source}&quot;"/>
+								    
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/}&quot;"/>
+								    
+								</option>
+								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.1395532696" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
+									
+                                    <listOptionValue builtIn="false" value="FEATURE_NANOSTACK=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_KSDK2_MCUS"/>
+                                    
+                                    <listOptionValue builtIn="false" value="FEATURE_LWIP=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="__MBED__=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_I2CSLAVE=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="__FPU_PRESENT=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_Freescale"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_PORTINOUT=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_RTOS_M4_M7"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_LOWPOWERTIMER=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_RTC=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TOOLCHAIN_object"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_SERIAL_ASYNCH=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="__CMSIS_RTOS"/>
+                                    
+                                    <listOptionValue builtIn="false" value="FSL_RTOS_MBED"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_STORAGE=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_KPSDK_MCUS"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TOOLCHAIN_GCC"/>
+                                    
+                                    <listOptionValue builtIn="false" value="ARM_MATH_CM4"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_DEBUG"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_LIKE_CORTEX_M4"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_ANALOGOUT=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_M4"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_UVISOR_UNSUPPORTED"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_K64F"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_SPI_ASYNCH=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_PWMOUT=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_INTERRUPTIN=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_I2C=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_PORTOUT=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="__CORTEX_M4"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_STDIO_MESSAGES=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="CPU_MK64FN1M0VMD12"/>
+                                    
+                                    <listOptionValue builtIn="false" value="MBED_BUILD_TIMESTAMP=1487544315.76"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_LIKE_MBED"/>
+                                    
+                                    <listOptionValue builtIn="false" value="FEATURE_COMMON_PAL=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_KPSDK_CODE"/>
+                                    
+                                    <listOptionValue builtIn="false" value="FEATURE_LOWPAN_ROUTER=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_SERIAL_FC=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="FEATURE_STORAGE=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_TRNG=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="__MBED_CMSIS_RTOS_CM"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_SLEEP=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TOOLCHAIN_GCC_ARM"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_FF_ARDUINO"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_FRDM"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_MCUXpresso_MCUS"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_SPI=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_ERROR_RED=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_SPISLAVE=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_ANALOGIN=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_SERIAL=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="DEVICE_PORTIN=1"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_MCU_K64F"/>
+                                    
+                                    <listOptionValue builtIn="false" value="TARGET_CORTEX_M"/>
+                                    
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.1704200665" languageId="org.eclipse.cdt.core.gcc" languageName="GNU C" sourceContentType="org.eclipse.cdt.core.cSource,org.eclipse.cdt.core.cHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="K64F.null.1423711414" name="K64F"/>
+	</storageModule>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		<scannerConfigBuildInfo instanceId="0.936619452">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="refreshScope" versionNumber="2">
+		<configuration configurationName="Default">
+			<resource resourceType="PROJECT" workspacePath="/mbed-os-example-blinky"/>
+		</configuration>
+	</storageModule>
+</cproject>
